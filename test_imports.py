@@ -11,17 +11,15 @@ def test_imports():
     """Test if all required packages can be imported."""
     packages = [
         # Python packages installed with uv
-        "valis",  # valis-wsi
+        "geopandas",
         "imagecodecs",
-        "zarr",
-        "pytesseract",
-        "pydantic",
         "ipykernel",
         "numpy",
-        "geopandas",
+        "pydantic",
+        "pytesseract",
         "rasterio",
-        # Packages from conda
-        "pyvips",
+        "valis",  # valis-wsi
+        "zarr",
     ]
 
     results = {}
