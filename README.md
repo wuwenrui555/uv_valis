@@ -23,3 +23,9 @@ uv add imagecodecs zarr pytesseract pydantic ipykernel
 uv add numpy==1.26.4 
 uv add geopandas rasterio
 ```
+
+## Testing
+
+```bash
+uv run test_imports.py
+```
