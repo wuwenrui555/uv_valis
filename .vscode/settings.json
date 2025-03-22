@@ -1,0 +1,15 @@
+{
+  "cSpell.words": [
+    "geopandas",
+    "imagecodecs",
+    "ipykernel",
+    "libvips",
+    "numpy",
+    "pydantic",
+    "pytesseract",
+    "pyvips",
+    "rasterio",
+    "tesseract",
+    "zarr"
+  ]
+}
